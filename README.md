@@ -18,7 +18,7 @@ Understanding is at the core of my learning process. In line with this, I'll tho
 
 ## Data Structures and Algorithms
 ### Data Structures
-1. [ ] **Arrays:** Basic array operations and manipulation.
+1. [X] **Arrays:** Basic array operations and manipulation.
 2. [ ] **Linked Lists:** Singly and doubly linked lists with common operations.
 3. [ ] **Stacks and Queues:** Fundamental stack and queue operations.
 4. [ ] **Trees:**
